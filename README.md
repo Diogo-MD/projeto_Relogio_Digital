@@ -27,6 +27,6 @@
 
 <h3 align="center"> :arrow_down_small: :arrow_down_small: :arrow_down_small: :arrow_down_small: :arrow_down_small: :arrow_down_small: </h3>
 
-<h3 align="center"><href>https://diogo-md.github.io/projeto-Relogio-Digital/</href></h3>
+<h3 align="center"><a href="https://diogo-md.github.io/projeto-Relogio-Digital/">Relógio Digital Simples</a></h3>
 
 <h3 align="center"> :arrow_up_small: :arrow_up_small: :arrow_up_small: :arrow_up_small: :arrow_up_small: :arrow_up_small: </h3>
