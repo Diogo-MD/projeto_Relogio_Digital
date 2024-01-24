@@ -23,5 +23,10 @@
 
 <h3 align="center"> :white_check_mark: Como Utilizar :white_check_mark: </h3>
 
-<p align="center">Basta abrir o arquivo `index.html` em qualquer navegador para visualizar o relógio digital em funcionamento. O JavaScript incorporado cuida da atualização automática dos horários.</p>
+<p align="center">Basta abrir o link abaixo. O JavaScript incorporado cuida da atualização automática dos horários.</p>
 
+<h3 align="center"> :arrow_down_small: :arrow_down_small: :arrow_down_small: :arrow_down_small: :arrow_down_small: :arrow_down_small: </h3>
+
+<h3 align="center"><href>https://diogo-md.github.io/projeto-Relogio-Digital/</href></h3>
+
+<h3 align="center"> :arrow_up_small: :arrow_up_small: :arrow_up_small: :arrow_up_small: :arrow_up_small: :arrow_up_small: </h3>
