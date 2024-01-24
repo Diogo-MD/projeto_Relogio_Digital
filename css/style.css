@@ -4,37 +4,20 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: #000407;
-    /* background-color: #aee1ff; */
 }
 
-#relogioDia {
+#relogio {
     display: flex;
     font-family: 'Arial', sans-serif;
     font-size: 6em;
-    border: solid 5px;
-    border-radius: 30px;
-    background: #aee1ff;
-    box-shadow: inset 5px 5px 11px #465a66, inset -5px -5px 11px #ffffff;
-}
-
-#relogioNoite {
-    display: flex;
-    font-family: 'Arial', sans-serif;
-    font-size: 6em;
-    border: #cccccc solid 5px;
-    border-radius: 30px;
-    background: #020e17;
-    box-shadow: inset 5px 5px 10px #010609, inset -5px -5px 10px #031625;
+    border: #2F3644 solid 5px;
+    border-radius: 49px;
+    background: #2F3644;
+    box-shadow: 6px 6px 0px #13161b, -6px -6px 0px #4b566d;
         
 }
 
-.tempoDia {
-    margin: 0 0.4em;
-    color: black;
-}
-
-.tempoNoite {
-    margin: 0 0.4em;
-    color: #cccccc;
+.tempo {
+    margin: 0 0.6em;
+    color: #f2f2f2;
 }
