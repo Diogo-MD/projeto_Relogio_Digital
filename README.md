@@ -13,7 +13,7 @@
   • <strong>Adaptação de Cor de Fundo:</strong> Altera a cor de fundo com base no horário atual.
 </p>
 
-<hr><h3 align="center"> :computer: Tecnologias Utilizadas :computer: </h3>
+<hr><h3 align="center"> :computer: Linguagens Utilizadas :computer: </h3>
 
 <p align="center">
   • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15" height="15"/> HTML<br>
