@@ -14,10 +14,9 @@ body {
     border-radius: 49px;
     background: #2F3644;
     box-shadow: 6px 6px 0px #13161b, -6px -6px 0px #4b566d;
-        
 }
 
 .tempo {
     margin: 0 0.6em;
-    color: #f2f2f2;
+    color: #f2f2f2; 
 }

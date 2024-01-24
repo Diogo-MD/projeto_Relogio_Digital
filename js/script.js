@@ -14,8 +14,8 @@ function updateClock() {
     document.getElementById('minutos').textContent = minutes;
     document.getElementById('segundos').textContent = seconds;
 
-    // Se o horário for entre 6 AM e 17 AM o BG COLOR será azul claro
-    // Se o horário for entre 18 PM e 5PM o BG COLOR será azul escuro
+    // Se o horário for entre 6 e 17 o Background Color será azul claro
+    // Se o horário for entre 18 e 5 o Background Color será azul escuro
     if (hours >= 18 || hours <= 5) {
         document.body.style.backgroundColor = '#010e18';
     } else {
